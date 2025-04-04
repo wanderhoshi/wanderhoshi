@@ -1,3 +1,3 @@
 ## Hi
 ### About me  
-Current student, majoring in Cybersecurity. Studying mathematics, computer science, software engineering, and cybersecurity.
+I major in cybersecurity in Shandong University.
